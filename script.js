@@ -73,7 +73,7 @@ const serviceDetails = {
         content: `
             <p>Flexible loans for individuals who want to grow their personal business.</p>
             <ul>
-                <li>Loan amount: TZS 300,000 – 10,000,000</li>
+                <li>Loan amount: TZS 100,000 – 500,000</li>
                 <li>Repayment: Up to 18 months</li>
                 <li>Requires basic collateral or guarantor</li>
                 <li>Fast approval process</li>
@@ -86,7 +86,7 @@ const serviceDetails = {
         content: `
             <p>Need money urgently? Get approved in less than 24 hours!</p>
             <ul>
-                <li>Loan amount: TZS 100,000 – 2,000,000</li>
+                <li>Loan amount: TZS 100,000 – 500,000</li>
                 <li>Repayment: 1 – 3 months</li>
                 <li>Minimal documentation</li>
                 <li>Higher but transparent interest</li>
